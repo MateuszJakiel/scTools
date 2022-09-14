@@ -1,0 +1,21 @@
+Package: scTools
+Title: Simplified and customizable low-code scRNA-seq analysis solution
+        for biologists
+Version: 1.0
+Authors@R: 
+    person("Mateusz", "Jakiel", , "mateusz.jakiel98@gmail.com", role = c("aut", "cre"),
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: This package allows for the user to go through all of the steps of single cell RNA-seq analysis.
+  It has been created for biologists to easily access results that interest them in the abscence of a bioinformatician.
+  Each step can be modified to allow for better precision of the results, so as to encourage said biologists to explore code.
+License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
+        license
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.0
+Depends: data.table, DoubletFinder, dplyr, Matrix, parallel, rmcfs,
+        Seurat, SeuratObject, viridis, xgboost
+NeedsCompilation: no
+Packaged: 2022-09-13 23:57:03 UTC; MateuszJakiel
+Author: Mateusz Jakiel [aut, cre] (YOUR-ORCID-ID)
+Maintainer: Mateusz Jakiel <mateusz.jakiel98@gmail.com>
