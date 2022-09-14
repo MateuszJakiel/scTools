@@ -19,3 +19,5 @@ NeedsCompilation: no
 Packaged: 2022-09-13 23:57:03 UTC; MateuszJakiel
 Author: Mateusz Jakiel [aut, cre] (YOUR-ORCID-ID)
 Maintainer: Mateusz Jakiel <mateusz.jakiel98@gmail.com>
+URL: https://github.com/MateuszJakiel/scTools
+BugReports: https://github.com/MateuszJakiel/scTools/issues
